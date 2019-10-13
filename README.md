@@ -6,9 +6,9 @@
 
 2、新增额外软件:  
 
-1)WireGuard  
+   1) WireGuard  
 
-2)V2ray  
+   2) V2ray  
 
 ## 截图如下：  
 
