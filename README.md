@@ -27,7 +27,4 @@ https://gitee.com/shengqiangzhang/Drcom-GDUT-HC5661A-OpenWrt
 
 ## 拓展/overlay空间参考：
 https://blog.samnya.cn/mount-sd-card-to-overlay-on-openwrt/
-<<<<<<< HEAD
-
-=======
->>>>>>> 50ff7db14e9a0e7c94946579d6b269d1f9d9a7e2
+  
