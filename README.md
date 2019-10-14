@@ -8,13 +8,15 @@
 
    1) WireGuard  
 
-   2) ShadowSocksR Plus+  
+   2) ShadowSocksR Plus+ 设置（支持SS/SSR/V2RAY）  
 
 ## 截图如下：  
 
 ![Image text](https://github.com/Einic/HiWiFi-HC5661A-Openwrt/blob/master/mmc-sd.png)
 
 ![Image text](https://github.com/Einic/HiWiFi-HC5661A-Openwrt/blob/master/WEBUI.png)
+
+![Image text](https://github.com/Einic/HiWiFi-HC5661A-Openwrt/blob/master/ssr.png)  
 
 ![Image text](https://github.com/Einic/HiWiFi-HC5661A-Openwrt/blob/master/WG0.png)
 
