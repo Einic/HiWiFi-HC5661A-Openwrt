@@ -8,7 +8,7 @@
 
    1) WireGuard  
 
-   2) ShadowSocksR Plus+ 设置（支持SS/SSR/V2RAY）  
+   2) ShadowSocksR Plus+ （支持SS/SSR/V2RAY）  
 
 ## 截图如下：  
 
