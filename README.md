@@ -8,7 +8,7 @@
 
    1) WireGuard  
 
-   2) V2ray  
+   2) ShadowSocksR Plus+  
 
 ## 截图如下：  
 
